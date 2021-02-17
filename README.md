@@ -5,7 +5,7 @@
 ### 使用套件說明：
 1. 利用requests套件與網頁伺服器連線
 2. 利用selenium套件連續爬取多個頁面
-3. 利用bs4(BeautifulSoup)套件解析HTML格式，並爬取所需欄位
+3. 利用bs4(BeautifulSoup)套件解析HTML格式
 4. 利用json套件，爬取所需欄位
 
 # 第二部分：資料清洗
